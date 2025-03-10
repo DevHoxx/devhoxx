@@ -41,7 +41,7 @@ A game platform being developed using **React**, **Next.js**, **Web3**, and AWS 
 🔒 **[GitHub Repository](https://github.com/DevHoxx/universe-of-calez---BKP)** (Private) – Source code repository for internal development.  
  
 📌 **[Smart Contract Web3 Game Web, ETHEREUM](#)**  
-A game platform being developed using **React**, **Next.js**, **Web3**, and AWS infrastructure. The platform will feature a decentralized economy powered by blockchain technology, offering an immersive experience for users. The project is leveraging a robust database and cloud solutions to scale seamlessly. 
+Smart Contract ETH, from Game Web, 
 
 🔗 **[Website](#)** –  
 📂 **[GitHub Repository](https://github.com/DevHoxx/smart-contract-bnb-game-web)** (FREE) – Source code repository for internal development.  
