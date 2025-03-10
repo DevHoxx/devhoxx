@@ -44,7 +44,7 @@ A game platform being developed using **React**, **Next.js**, **Web3**, and AWS 
 A game platform being developed using **React**, **Next.js**, **Web3**, and AWS infrastructure. The platform will feature a decentralized economy powered by blockchain technology, offering an immersive experience for users. The project is leveraging a robust database and cloud solutions to scale seamlessly. 
 
 🔗 **[Website](#)** –  
-📂 **[GitHub Repository](https://github.com/DevHoxx/smart-contract-bnb-game-web)** (Private) – Source code repository for internal development.  
+📂 **[GitHub Repository](https://github.com/DevHoxx/smart-contract-bnb-game-web)** (FREE) – Source code repository for internal development.  
 
 📌 **More epic projects are coming... Stay tuned! 🚀**  
 
