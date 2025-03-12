@@ -57,6 +57,9 @@ Smart Contract ETH, from Game Web,
 
 ![Language Stats](https://raw.githubusercontent.com/DevHoxx/DevHoxx/main/language-chart.png)
 
+<!-- Gráfico de linguagens (incluindo privados) -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHoxx&layout=compact&theme=radical&langs_count=10)
+
 📌 **Open Source Contributions:** *I actively contribute to the tech community by maintaining and enhancing open-source projects.*  
 
 ---
