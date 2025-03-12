@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> Anderson "DevHox" Silva
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> Anderson Silva Atualizaçao para dados e correspondencias precisas
 <div align="center">
   <img src="https://media.tenor.com/4tHn0G0XQ3EAAAAC/epic-gamer.gif" width="150" />
 </div>
@@ -21,12 +21,12 @@ Greetings, traveler! I am a Software Engineer with a passion for scalable, high-
 ---
 
 📌 Skills
-Frontend: React, Vue.js, Next.js, Redux, Webpack
-Backend: Node.js, Express, NestJS, PHP/Laravel
-Blockchain: Solidity, Web3.js, Hardhat, Truffle
-Cloud: AWS (Lambda, EC2, S3), Docker, Kubernetes
-Database: PostgreSQL, MongoDB, Redis
-DevOps: CI/CD, Terraform, Ansible
+Frontend: React, Vue.js, Next.js, Redux, Webpack  
+Backend: Node.js, Express, NestJS, PHP/Laravel  
+Blockchain: Solidity, Web3.js, Hardhat, Truffle  
+Cloud: AWS (Lambda, EC2, S3), Docker, Kubernetes  
+Database: PostgreSQL, MongoDB, Redis  
+DevOps: CI/CD, Terraform, Ansible  
 
 ---
 
@@ -91,3 +91,9 @@ DevOps: CI/CD, Terraform, Ansible
 
 > *"In the grand quest of technology, the greatest weapon is knowledge, and the strongest armor is persistence."*  
 > **Join me on this journey!** 🚀
+>
+> # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> Anderson Silva
+```python
+  /\_/\  
+ ( o.o )  
+  > ^ <  DevHox - Code Wizard
