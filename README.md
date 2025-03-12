@@ -55,6 +55,12 @@ Smart Contract ETH, from Game Web,
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHoxx&layout=compact&theme=dark)  
 
+<!-- Gráfico de linguagens com tema radical -->
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?DevHoxx=SEU_USUARIO_GITHUB&layout=compact&theme=radical)
+
+<!-- Gráfico de linguagens com tema dark -->
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?DevHoxx=SEU_USUARIO_GITHUB&layout=full&theme=dark)
+
 📌 **Open Source Contributions:** *I actively contribute to the tech community by maintaining and enhancing open-source projects.*  
 
 ---
