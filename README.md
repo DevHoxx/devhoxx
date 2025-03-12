@@ -1,3 +1,11 @@
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> DevHox
+
+**Full-Stack Developer** | **Blockchain Enthusiast** | **Open Source Contributor**  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=radical)](https://github.com/DevHoxx)
+
+---
+
+
 # 🏰 Welcome, Adventurer! ⚔️  
 ### "Code is the magic of the modern world. Master it, and you shape reality."  
 
