@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> Anderson Silva Atualizaçao para dados e correspondencias precisas
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> Anderson Silva 
 <div align="center">
   <img src="https://media.tenor.com/4tHn0G0XQ3EAAAAC/epic-gamer.gif" width="150" />
 </div>
@@ -72,26 +72,20 @@ DevOps: CI/CD, Terraform, Ansible
 ---
 
 ## ## 🏹 Contact & Guilds  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+🔹 **Website Dev Gamer (Brasil):** [DevHox](https://devhox.com.br)  
+🔹 **Website Dev Gamer (Global):** [DevHox](https://devhox.com)  
+🔹 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://linkedin.com/in/astorsp">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
-  </a>
-  <a href="https://github.com/DevHoxx">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
-  </a>
-  <a href="mailto:devhox3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
-  </a>
-  <a href="https://wa.me/+5553984757279">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>  
-  </a>
-</div>
+  </a>  
+
+🔹 **Email-Profissional:** [info@devhox.com](mailto:info@devhox.com)  
+🔹 **WhatsApp:** [[+Your Number](https://wa.me/+5553984757279)](https://wa.me/+5553984757279)  
+🔹 **GitHub:** [github.com/DevHoxx](https://github.com/DevHoxx)  
+🔹 **Company:** [Iastor](https://iastor.com)  
 
 ---
 
 > *"In the grand quest of technology, the greatest weapon is knowledge, and the strongest armor is persistence."*  
 > **Join me on this journey!** 🚀
->
-[![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Flinkedin.com%2Fin%2Fastorsp&size=200x200&color=0077B5)](https://linkedin.com/in/astorsp)
 
-![GitHub Contributions](https://streak-stats.dominicm.ml/?user=DevHoxx&theme=radical)
