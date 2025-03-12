@@ -53,7 +53,6 @@ Smart Contract ETH, from Game Web,
 ## 📊 Stats & Contributions  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=dark)
-<!-- Gráfico de linguagens (incluindo privados) -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHoxx&layout=compact&theme=radical&langs_count=10)  
 <!-- Gráfico de pizza -->
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevHoxx&theme=radical)
