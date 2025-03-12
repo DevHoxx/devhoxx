@@ -1,8 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> DevHox
-
-**Full-Stack Developer** | **Blockchain Enthusiast** | **Open Source Contributor**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=radical)](https://github.com/DevHoxx)
-
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> Anderson Silva
 ---
 
 
@@ -60,12 +56,23 @@ Smart Contract ETH, from Game Web,
 
 ## 📊 Stats & Contributions  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=dark)
+**Full-Stack Developer** | **Blockchain Enthusiast** | **Open Source Contributor**  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=radical)](https://github.com/DevHoxx)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHoxx&layout=compact&theme=radical&langs_count=10)  
 <!-- Gráfico de pizza -->
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevHoxx&theme=radical)
 
 📌 **Open Source Contributions:** *I actively contribute to the tech community by maintaining and enhancing open-source projects.*  
+
+---
+
+## 📌 Skills
+- **Frontend:** React, Vue.js, Next.js, Redux, Webpack
+- **Backend:** Node.js, Express, NestJS, PHP/Laravel
+- **Blockchain:** Solidity, Web3.js, Hardhat, Truffle
+- **Cloud:** AWS (Lambda, EC2, S3), Docker, Kubernetes
+- **Database:** PostgreSQL, MongoDB, Redis
+- **DevOps:** CI/CD, Terraform, Ansible
 
 ---
 
