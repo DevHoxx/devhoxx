@@ -69,7 +69,7 @@ DevOps: CI/CD, Terraform, Ansible
 ---
 
 ## 📊 **Heroic Stats**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=radical)](https://github.com/DevHoxx)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=radical)](https://github.com/DevHoxx) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHoxx&layout=compact&theme=radical&langs_count=10)  
 
 ---
