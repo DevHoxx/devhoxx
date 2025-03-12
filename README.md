@@ -9,6 +9,25 @@
 **Senior Full-Stack Developer** | **Blockchain Alchemist** | **Cloud Architect**  
 *Level 99* | *XP: 15+ years* | *Class: Code Wizard*  
 
+## 🧙‍♂️ About Me
+Greetings, traveler! I am a Software Engineer with a passion for scalable, high-performance applications . My journey through the digital realms has led me to master both front-end and back-end technologies, as well as blockchain and Web3 development .
+
+## 🏆 **Legendary Achievements**  
+- ✨ **Blockchain Pioneer:** Developed 3+ decentralized applications with 10k+ users  
+- 🚀 **Cloud Mastery:** Architected AWS solutions handling 1M+ requests/day  
+- ⚡ **Performance Guru:** Optimized SQL queries reducing load times by 400%  
+- 🎮 **Gamer Coder:** Integrated Unity with Web3 for NFT-based gaming economies
+  
+---
+
+📌 Skills
+Frontend: React, Vue.js, Next.js, Redux, Webpack
+Backend: Node.js, Express, NestJS, PHP/Laravel
+Blockchain: Solidity, Web3.js, Hardhat, Truffle
+Cloud: AWS (Lambda, EC2, S3), Docker, Kubernetes
+Database: PostgreSQL, MongoDB, Redis
+DevOps: CI/CD, Terraform, Ansible
+
 ---
 
 ## 🔥 **Legendary Skills**  
@@ -36,13 +55,13 @@
 ### 🔥 **The Universe of Calez**  
 *MMORPG Platform with Blockchain Economy*  
 **Tech Stack:** React | Next.js | Web3 | AWS | MySQL  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHoxx/universe-of-calez---BKP)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHoxx/universe-of-calez---BKP) (PRIVATE)  
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge)](https://universeofcalez.com)  
 
 ### ⚔️ **BNB Chain Game**  
 *Decentralized Gaming Platform*  
 **Tech Stack:** Solidity | Truffle | Vue.js  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHoxx/smart-contract-bnb-game-web)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHoxx/smart-contract-bnb-game-web) (FREE)  
 
 ---
 
@@ -52,31 +71,23 @@
 
 ---
 
-## 🏆 **Legendary Achievements**  
-- ✨ **Blockchain Pioneer:** Developed 3+ decentralized applications with 10k+ users  
-- 🚀 **Cloud Mastery:** Architected AWS solutions handling 1M+ requests/day  
-- ⚡ **Performance Guru:** Optimized SQL queries reducing load times by 400%  
-- 🎮 **Gamer Coder:** Integrated Unity with Web3 for NFT-based gaming economies  
-
----
-
-## 📮 **Join My Guild**  
+## ## 🏹 Contact & Guilds  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://linkedin.com/in/astorsp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
   <a href="https://github.com/DevHoxx">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
   </a>
   <a href="mailto:devhox3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
   </a>
   <a href="https://wa.me/+5553984757279">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>  
   </a>
 </div>
 
 ---
 
-> *"In the realm of code, every bug is a dragon to slay, and every feature a treasure to claim."*  
-> **Let's quest together!** 🚀  
+> *"In the grand quest of technology, the greatest weapon is knowledge, and the strongest armor is persistence."*  
+> **Join me on this journey!** 🚀
