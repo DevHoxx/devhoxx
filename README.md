@@ -92,8 +92,6 @@ DevOps: CI/CD, Terraform, Ansible
 > *"In the grand quest of technology, the greatest weapon is knowledge, and the strongest armor is persistence."*  
 > **Join me on this journey!** 🚀
 >
-> # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> Anderson Silva
-```python
-  /\_/\  
- ( o.o )  
-  > ^ <  DevHox - Code Wizard
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Flinkedin.com%2Fin%2Fastorsp&size=200x200&color=0077B5)](https://linkedin.com/in/astorsp)
+
+![GitHub Contributions](https://streak-stats.dominicm.ml/?user=DevHoxx&theme=radical)
