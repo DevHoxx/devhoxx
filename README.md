@@ -88,49 +88,9 @@ DevOps: CI/CD, Terraform, Ansible
 
 > *"In the grand quest of technology, the greatest weapon is knowledge, and the strongest armor is persistence."*  
 > **Join me on this journey!** 🚀
-
------
-
-# <img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="40" style="border-radius: 50%"/> **DevHox**  
-<p align="center">
-  <!-- Gráfico animado de contribuições -->
-  <a href="https://github.com/DevHoxx">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevHoxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&animate=true" />
-  </a>
-  <!-- Gráfico de streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevHoxx&theme=radical&date_format=j%e%b&fire=&stroke=ffffff&background=1a1a2e" />
-</p>
-
----
-
-## 🕒 **Estatísticas de Desenvolvimento**  
-<p align="center">
-  <!-- WakaTime -->
-  <img src="https://wakatime.com/badge/user/DevHoxx.png?theme=radical" alt="WakaTime"/>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevHoxx&theme=radical" />
-</p>
-
----
-
-## 🎮 **Badges Interativos**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://linkedin.com/in/astorsp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" 
-         alt="LinkedIn" 
-         style="transition: transform 0.3s;"/>
-  </a>
-  <a href="mailto:devhox3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" 
-         alt="Email" 
-         style="transition: transform 0.3s;"/>
-  </a>
-</div>
-
----
-
 > 🌟 *"Codificar é como um RPG:  
 > Cada bug resolvido é um level up,  
 > Cada projeto concluído é uma side quest completa,  
 > E o deploy final é a batalha contra o chefe final!"*  
-> **🎮 [Visite meu Portfolio](https://devhox.com) para ver os projetos em ação!**
+> **🎮 [Visite meu Portfolio](EM BREVE) para ver os projetos em ação!**
+
