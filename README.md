@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://media.tenor.com/4tHn0G0XQ3EAAAAC/epic-gamer.gif" width="150" />
 </div>
-
 ---
 
 ## 🏰 **Current Quest**  
@@ -72,15 +71,12 @@ DevOps: CI/CD, Terraform, Ansible
 ---
 
 ## ## 🏹 Contact & Guilds  
-🔹 **Website Dev Gamer (Brasil):** [DevHox](https://devhox.com.br)  
-🔹 **Website Dev Gamer (Global):** [DevHox](https://devhox.com)  
-🔹 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://linkedin.com/in/astorsp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
-  </a>  
+🔹 **Website Dev Gamer (Brasil):** (https://devhox.com.br)  
+🔹 **Website Dev Gamer (Global):** (https://devhox.com)  
+🔹 **LinkedIn:** (https://linkedin.com/in/astorsp) 
 
-🔹 **Email-Profissional:** [info@devhox.com](mailto:info@devhox.com)  
-🔹 **WhatsApp:** [[+Your Number](https://wa.me/+5553984757279)](https://wa.me/+5553984757279)  
+🔹 **Email-Profissional:** (mailto:info@devhox.com)  
+🔹 **WhatsApp:** (https://wa.me/+5553984757279)  
 🔹 **GitHub:** [github.com/DevHoxx](https://github.com/DevHoxx)  
 🔹 **Company:** [Iastor](https://iastor.com)  
 
