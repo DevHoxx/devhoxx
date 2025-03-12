@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://media.tenor.com/4tHn0G0XQ3EAAAAC/epic-gamer.gif" width="150" />
 </div>
----
+
+
 
 ## 🏰 **Current Quest**  
 **Senior Full-Stack Developer** | **Blockchain Alchemist** | **Cloud Architect**  
@@ -19,7 +20,7 @@ Greetings, traveler! I am a Software Engineer with a passion for scalable, high-
   
 ---
 
-📌 Skills
+📌 Skills  
 Frontend: React, Vue.js, Next.js, Redux, Webpack  
 Backend: Node.js, Express, NestJS, PHP/Laravel  
 Blockchain: Solidity, Web3.js, Hardhat, Truffle  
@@ -54,12 +55,15 @@ DevOps: CI/CD, Terraform, Ansible
 ### 🔥 **The Universe of Calez**  
 *MMORPG Platform with Blockchain Economy*  
 **Tech Stack:** React | Next.js | Web3 | AWS | MySQL  
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHoxx/universe-of-calez---BKP) (PRIVATE)  
+
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge)](https://universeofcalez.com)  
 
 ### ⚔️ **BNB Chain Game**  
 *Decentralized Gaming Platform*  
 **Tech Stack:** Solidity | Truffle | Vue.js  
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHoxx/smart-contract-bnb-game-web) (FREE)  
 
 ---
