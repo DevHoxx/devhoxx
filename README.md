@@ -88,6 +88,7 @@ DevOps: CI/CD, Terraform, Ansible
 
 > *"In the grand quest of technology, the greatest weapon is knowledge, and the strongest armor is persistence."*  
 > **Join me on this journey!** 🚀
+
 > 🌟 *"Codificar é como um RPG:  
 > Cada bug resolvido é um level up,  
 > Cada projeto concluído é uma side quest completa,  
