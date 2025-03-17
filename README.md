@@ -90,12 +90,13 @@ DevOps: CI/CD, Terraform, Ansible
 > **Join me on this journey!** 🚀
 
 > 🌟 *"Codificar é como um RPG:  
-> Cada bug resolvido é um level up,  
-> Cada projeto concluído é uma side quest completa,  
-> E o deploy final é a batalha contra o chefe final!"*  
-> **🎮 [Visite meu Portfolio](EM BREVE) para ver os projetos em ação!**
+> Each bug solved is a level up,
+> Each completed project is a complete side quest,
+> And the final deploy is the battle against the final boss!"*
+> **🎮 [Visit my Portfolio](COMING SOON) to see the projects in action!**
 
 <div align="center">
   <br> <p align="center"> <b> VISITORS </b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevHoxx}/count.svg" /></p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fbf0&height=120&section=footer'/>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevHoxx}/count.svg" /></p>  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fbfb&height=120&section=footer"/>
