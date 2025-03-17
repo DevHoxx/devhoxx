@@ -99,4 +99,4 @@ DevOps: CI/CD, Terraform, Ansible
   <br> <p align="center"> <b> VISITORS </b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevHoxx}/count.svg" /></p>  
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fbfb&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc66&height=120&section=footer"/>
