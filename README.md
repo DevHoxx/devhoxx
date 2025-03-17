@@ -95,3 +95,7 @@ DevOps: CI/CD, Terraform, Ansible
 > E o deploy final é a batalha contra o chefe final!"*  
 > **🎮 [Visite meu Portfolio](EM BREVE) para ver os projetos em ação!**
 
+<div align="center">
+  <br> <p align="center"> <b> VISITORS </b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevHoxx}/count.svg" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fbf0&height=120&section=footer'/>
